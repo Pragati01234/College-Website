@@ -71,20 +71,20 @@ XAMPP or LAMP server
 
 * Notes page
 
-  <img src="Screenshot/notes.png"  width="800" height="500"  />
-  <img src="Screenshot/files.png"  width="800" height="500"  />
+  <img src="https://github.com/Pragati01234/College-Website/blob/main/notes.png"  width="800" height="500"  />
+  <img src="https://github.com/Pragati01234/College-Website/blob/main/files.png"  width="800" height="500"  />
 
 * Notices page
 
-  <img src="Screenshot/noticeboard.png"  width="800" height="500"  />
+  <img src="https://github.com/Pragati01234/College-Website/blob/main/noticeboard.png"  width="800" height="500"  />
 
 * Contact us page
 
-  <img src="Screenshot/contact us.png"  width="800" height="500"  />
+  <img src="https://github.com/Pragati01234/College-Website/blob/main/contact us.png"  width="800" height="500"  />
 
 * Admin page
   
-  <img src="Screenshot/admin.png"  width="800" height="500"  />
+  <img src="https://github.com/Pragati01234/College-Website/blob/main/admin.png"  width="800" height="500"  />
   
 
 <!-- CONTRIBUTING -->
