@@ -2,14 +2,9 @@
 <p align="center">
   
    <img src="https://github.com/Pragati01234/College-Website/blob/main/about.jpeg"/>
-  </a>
 
-  <h3 align="center">CollegeSpace</h3>
 
-  <p align="center">
-   Academic Portal with an aim to provide a holistic solution to all student needs.
-   
-  </p>
+ 
 </p>
 
 
