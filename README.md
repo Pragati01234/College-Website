@@ -1,7 +1,7 @@
 # College-Website
 <p align="center">
   
-   <img src="https://img.icons8.com/dusk/64/000000/student-center.png"/>
+   <img src="https://github.com/Pragati01234/College-Website/blob/main/about.jpeg"/>
   </a>
 
   <h3 align="center">CollegeSpace</h3>
@@ -20,7 +20,7 @@
 
 ## About The Project
 
-<img src="Screenshot/home.png"  width="800" height="500" />
+<img src="https://github.com/Pragati01234/College-Website/blob/main/home.png"  width="800" height="500" />
 
 CollegeSpace is the Academic Portal with an aim to provide a holistic solution to all student needs.
 
